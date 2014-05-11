@@ -1,4 +1,4 @@
-ODHK CKAN : The Open Data Portal for Hong Kong
+# ODHK CKAN : The Open Data Portal for Hong Kong
 
 ## Distribution of Tasks
 
@@ -21,7 +21,6 @@ The server setup will be detailed later, but will be on Ubuntu 12.04 in producti
 See the [CKAN Documentation](http://docs.ckan.org) for installation instructions.
 
 ## Support
--------
 
 If you need help with CKAN or want to ask a question about CKAN, use either the `ckan-discuss` mailing list or the [`CKAN`](http://stackoverflow.com/questions/tagged/ckan) tag on Stack Overflow (try searching the Stack Overflow and ckan-discuss archives for an answer to your question first).
 
