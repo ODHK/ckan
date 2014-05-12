@@ -4,7 +4,7 @@
 
 Our ToDo list is managed through (GitHub Issues)[https://github.com/ODHK/ckan/issues]. Please sign up for GitHub and feel free to assign yourself to any issues which haven't been picked up yet. To give you a sense of the road map, issues are also organised by milestones, which are one week's worth of activity.
 
-**Please provide me with your Github Usernames so I can add you ad collaborators**
+**Please provide me with your Github Usernames so I can add you as collaborators**
 
 ## Google Docs
 
